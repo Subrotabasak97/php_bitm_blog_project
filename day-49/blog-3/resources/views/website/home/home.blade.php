@@ -1,0 +1,1 @@
+@extends('master.front.master')
